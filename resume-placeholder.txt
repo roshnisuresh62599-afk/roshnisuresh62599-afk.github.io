@@ -1,0 +1,1 @@
+Replace this file with your final resume PDF named resume.pdf, then add a resume button to index.html if desired.

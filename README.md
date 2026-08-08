@@ -23,7 +23,3 @@ The project visualizations are CSS illustrations, so the site works without exte
 - LinkedIn: http://www.linkedin.com/in/roshini-s-a6b808404
 - GitHub: https://github.com/roshnisuresh62599-afk
 - Email: roshinisuresh2307@gmail.com
-
-
-## Resume
-The portfolio includes the supplied resume as `resume.pdf` and links to it from the homepage.
