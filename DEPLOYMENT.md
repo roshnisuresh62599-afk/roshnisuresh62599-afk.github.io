@@ -1,21 +1,15 @@
-# Publish your portfolio
+# Final GitHub Pages deployment
 
-## Option 1 — GitHub Pages (recommended)
-1. Create a GitHub repository named `YOUR-USERNAME.github.io`.
-2. Upload all files and folders from this portfolio.
-3. In GitHub: Settings → Pages → Deploy from a branch → `main` → `/root`.
-4. Your website will be available at `https://YOUR-USERNAME.github.io`.
+1. Download and extract this portfolio package.
+2. In the `roshnisuresh62599-afk.github.io` repository, upload the **contents** of the extracted folder, not the ZIP itself.
+3. Replace the existing `index.html`, `assets/`, `projects/`, `resume.pdf`, `README.md`, `favicon.svg` and other files with this final version.
+4. Commit directly to the `main` branch.
+5. In **Settings → Pages**, keep **Deploy from a branch → main → /(root)**.
+6. Wait for the Pages deployment to complete, then open:
+   `https://roshnisuresh62599-afk.github.io/`
 
-## Option 2 — Netlify
-1. Create a Netlify account.
-2. Choose Add new site → Deploy manually.
-3. Drag the portfolio folder into the upload area.
-4. Netlify gives you a live shareable URL.
-
-## Final personalization
-Replace these placeholders in `index.html`:
-- `YOUR_EMAIL@example.com`
-- LinkedIn URL
-- GitHub URL
-
-Then replace the project case-study links with your actual GitHub repositories and Tableau/Power BI dashboards.
+### If the old site is still showing
+- Open the repository's **Actions** tab and confirm the latest Pages workflow completed successfully.
+- Open the site in an incognito/private window.
+- On Chrome desktop, use `Ctrl + Shift + R` for a hard refresh.
+- Confirm the latest commit contains `assets/images/tableau-dashboard.png` and `assets/images/powerbi-dashboard.png`.
